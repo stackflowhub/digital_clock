@@ -56,7 +56,7 @@ const DigitalClock = () => {
           </div>
         </div>
 
-        <div className={styles.footer}>Digital Clock • Neon UI</div>
+        <div className={styles.footer}>Digital Clock • StackFlowHub</div>
       </div>
     </div>
   );
